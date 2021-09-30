@@ -1,7 +1,8 @@
 # PythonResources
 
 * https://pythontutor.com/ - This is something my friend showed me. It was made by a CS professor at Berkeley. It's good to quickly test something in python or to visualize your program (usually recursion or data structures are the hardest things to visualize when you first learn them. You don't have to worry about data structures, you won't be learning data structures in your class. 
-* ![image](https://user-images.githubusercontent.com/73054034/135539463-a6387452-aefc-42ff-a758-7fa6f20d9005.png)
+* Example of Python Tutor working through a recursive problem. Bunnyears has input n - the number of bunnies, and the bunnyears() function call at the bottom returns the number of ears when there are n = 10 bunnies. 
+![image](https://user-images.githubusercontent.com/73054034/135539463-a6387452-aefc-42ff-a758-7fa6f20d9005.png)
 
 * https://www.jetbrains.com/pycharm/ - The best python IDE imo (I'm pretty sure this has a visualizer extention based on the python tutor site)
 * https://www.anaconda.com/ - This a development environment organizer. Pycharm makes their own enviroment everytime you make a project. This means redownloading libraries. A lot of non-CS STEM people use anaconda to manage their libraries, like a math library or statistics library. 
